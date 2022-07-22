@@ -92,7 +92,7 @@ module.exports = function (RED) {
         try {
             RED.nodes.createNode(this, config);
             if (checkConfig(node, config)) {
-                var ui = RED.require('node-red-dashboard')(RED);
+                var ui = RED.require('@mayahq/maya-red-dashboard')(RED);
                 var sizes = ui.getSizes();
                 // var luma = 255;
                 // if (ui.hasOwnProperty("getTheme") && (ui.getTheme() !== undefined)) {
