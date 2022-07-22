@@ -1,7 +1,7 @@
 {
-  "name": "node-red-node-ui-table",
+  "name": "@mayahq/node-red-node-ui-table",
   "version": "0.3.12",
-  "description": "Table UI widget node for Node-RED Dashboard",
+  "description": "Table UI widget node for Node-RED Dashboard. Forked for Maya Labs.",
   "author": "Kazuhito Yokoi",
   "contributors": ["Dave Conway-Jones","@hotNipi","@Christian-Me"],
   "license": "Apache-2.0",
@@ -11,16 +11,16 @@
     }
   },
   "peerDependencies": {
-    "node-red-dashboard": ">2.16.0"
+    "@mayahq/maya-red-dashboard": ">1.0.3"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/node-red/node-red-ui-nodes.git"
+    "url": "git+https://github.com/mayahq/maya-red-ui-nodes.git"
   },
   "bugs": {
-    "url":"https://github.com/node-red/node-red-ui-nodes/issues"
+    "url":"https://github.com/mayahq/maya-red-ui-nodes/issues"
   },
-  "homepage": "https://github.com/node-red/node-red-ui-nodes/tree/master/node-red-node-ui-table#README.md",
+  "homepage": "https://github.com/mayahq/maya-red-ui-nodes/tree/master/node-red-node-ui-table#README.md",
   "keywords": [
     "node-red",
     "node-red-dashboard",
