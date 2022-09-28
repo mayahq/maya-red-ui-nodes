@@ -6460,7 +6460,7 @@ var _typeof =
 
     paginationButtonCount: 5, // set count of page button
 
-    paginationSizeSelector: false, //add pagination size selector element
+    paginationSizeSelector: true, //add pagination size selector element
 
     paginationElement: false, //element to hold pagination numbers
 
