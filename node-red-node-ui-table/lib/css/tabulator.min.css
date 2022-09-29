@@ -446,7 +446,7 @@
   background-color: #f7f5f3;
 }
 .tabulator-row.tabulator-selectable:hover {
-  background-color: #bbb;
+  background-color: #eee;
   cursor: pointer;
 }
 .tabulator-row.tabulator-selected {
